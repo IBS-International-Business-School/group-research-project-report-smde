@@ -1,9 +1,9 @@
 # Group Research Project Report
 
 ## Team Members:
-1. Shaurya Rawat
-2. ... 
-3. ... 
+1. EMRAL MIRALAY
+2. MEHRSHAD SALIMNEZHAD
+3. SHAURYA RAWAT
 4. ... 
 5. ... 
 
@@ -30,3 +30,4 @@
 
 ## References
 ... 
+![any title for your image](ht)
