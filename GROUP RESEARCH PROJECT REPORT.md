@@ -16,7 +16,7 @@ Mobley (1977) theorized that dissatisfaction leads to thoughts of quitting, even
 
 
 ## Methodology
-... 
+i write 200 words for this part
 
 ## Results
 ... 
