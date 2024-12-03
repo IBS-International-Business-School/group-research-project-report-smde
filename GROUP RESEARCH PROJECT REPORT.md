@@ -9,7 +9,7 @@
 ... 
 
 ## Introduction
-this is test for the git change code 
+and this is test for commit
 
 ## Methodology
 for this part i write 200 words and that is fine
