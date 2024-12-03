@@ -4,8 +4,8 @@
 1. EMRAL MIRALAY
 2. MEHRSHAD SALIMNEZHAD
 3. SHAURYA RAWAT
-4. ... 
-5. ... 
+ 
+
 
 ## Declaration
 ... 
@@ -14,7 +14,8 @@
 ...
 
 ## Methodology
-... 
+hi this is my first text
+
 
 ## Results
 ... 
