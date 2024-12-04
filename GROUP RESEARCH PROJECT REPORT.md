@@ -33,7 +33,7 @@ The collected data were analyzed using statistical techniques such as correlatio
 
 ### Hypothesis Testing
 We tested two hypotheses in this study. The first looked at whether extended work hours lead to negative employee perceptions (H1) or have no impact. (H2) The second examined if job stress affects an employee’s willingness to leave their job. Using statistical analysis, we uncovered key patterns and relationships, offering a solid basis for our conclusions.
-
+![any title for your image](Screenshot 2024-11-21 140405.png)
 
 ## Results
 
@@ -49,8 +49,7 @@ For businesses, these insights highlight the importance of creating a sustainabl
 From a research perspective, this study emphasizes the value of exploring how extended work hours affect people in different demographic and cultural settings. Long-term studies can provide a clearer picture of how work patterns evolve over time. Additionally, examining industry-specific impacts and comparing on-site, remote, and hybrid work models can help identify strategies for fostering employee well-being and efficiency.
 
 
-<img> https://vscode.dev/github/IBS-International-Business-School/group-research-project-report-smde/blob/main/method.webp
-## Reflection
+<img> C:\Users\Mehrshad\Desktop\skib353_24a-group-research-project-report-skib353-template-2\group-research-project-report-smde\group-research-project-report-smde\Screenshot 2024-11-21 140405.png
 ... 
 
 ## References
