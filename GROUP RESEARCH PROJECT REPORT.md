@@ -48,7 +48,8 @@ For businesses, these insights highlight the importance of creating a sustainabl
 
 From a research perspective, this study emphasizes the value of exploring how extended work hours affect people in different demographic and cultural settings. Long-term studies can provide a clearer picture of how work patterns evolve over time. Additionally, examining industry-specific impacts and comparing on-site, remote, and hybrid work models can help identify strategies for fostering employee well-being and efficiency.
 
-![any title for your image](C:\Users\Mehrshad\Desktop\skib353_24a-group-research-project-report-skib353-template-2\group-research-project-report-smde\group-research-project-report-smde\method.webp)
+
+<img>(C:\Users\Mehrshad\Desktop\skib353_24a-group-research-project-report-skib353-template-2\group-research-project-report-smde\group-research-project-report-smde\method.webp)
 
 ## Reflection
 ... 
