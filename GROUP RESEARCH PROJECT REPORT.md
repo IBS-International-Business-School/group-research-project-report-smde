@@ -6,7 +6,9 @@
 3. SHAURYA RAWAT
 
 ## Declaration
-... 
+We hereby declare that the following essay is the result of a collaborative effort. The work presented in this document represents the collective contributions and efforts of our team of three individuals. Each member played a significant role in research, analysis, writing, and review to ensure the accuracy and quality of this assignment.
+
+We confirm that this essay is an original work, and any references to external sources have been properly cited and acknowledged.
 
 ## Introduction
 
