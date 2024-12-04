@@ -42,7 +42,6 @@ We tested two hypotheses in this study. The first looked at whether extended wor
 ... 
 
 ## Conclusion
-/n
 This study sheds light on the impact of extended working hours on employees' well-being, job satisfaction, and turnover intentions. The findings reveal that excessive work demands, increased stress, and a lack of work-life balance significantly reduce productivity and employee commitment over time. While flexible working arrangements can provide short-term benefits for those valuing autonomy, the long-term effects often lead to work-family conflicts and health issues.
 
 For businesses, these insights highlight the importance of creating a sustainable work culture. Offering balanced workloads and flexible, quality-focused schedules tailored to employee needs can improve job satisfaction and retention while boosting productivity. Encouraging healthier work practices benefits not just employees but the organization as a whole.
