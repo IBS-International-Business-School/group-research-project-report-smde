@@ -113,5 +113,12 @@ From a research perspective, this study emphasizes the value of exploring how ex
 
 ## Reflection
 
+**Reflection**
+
+During this project, our team embraced Agile principles to foster effective collaboration and ensure flexibility. We emphasized regular communication and adaptability throughout the process. To stay aligned, we used Microsoft Teams for virtual meetings, where we could discuss updates, challenges, and assign tasks. Additionally, we created a WhatsApp group chat for quick, informal communication, allowing us to share progress and resolve issues promptly. Google Docs played a vital role in our work by enabling real-time collaboration on documents, ensuring that everyone had access to the most up-to-date information before pushing commits to our GitHub repository.
+
+We also valued Agile's focus on continuous improvement. To enhance our discussions, we met in cafes on weekends, where we could brainstorm and resolve complex issues in a relaxed, face-to-face environment. These meetups were particularly helpful in fostering creative problem-solving and building team rapport.
+
+Despite our efforts, some challenges arose, particularly in coordinating schedules for both online meetings and weekend gatherings due to differing personal commitments. However, through clear communication and flexibility, we managed to overcome these obstacles. In the end, applying Agile principles helped us enhance teamwork, manage our time effectively, and ensure the success of the project. This experience taught us valuable lessons in collaboration, problem-solving, and adaptability, which we can apply to future projects.
+
 ## References
-![any title for your image](LINK)
