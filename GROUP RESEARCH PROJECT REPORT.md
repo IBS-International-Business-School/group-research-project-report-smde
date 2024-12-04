@@ -82,6 +82,7 @@ By analyzing survey responses and conducting statistical analyses, the results p
 The findings strongly support the hypothesis that most employees perceive longer work hours as adverse. The majority of respondents reported high levels of stress and fatigue due to extended working hours. This trend was particularly evident among those who frequently worked overtime, with a clear correlation between increased overtime frequency and higher stress levels.
 Additionally, when asked about the impact of extended working hours, a significant proportion of respondents indicated negative effects on their personal and family life. This aligns with prior research emphasizing that long working hours can disrupt work-life balance, leading to dissatisfaction and burnout.
 Interestingly, even though financial incentives were offered for overtime, they were only moderately influential in motivating employees to work extra hours. Respondents who worked overtime regularly did not perceive substantial career advancement benefits from their efforts, further reinforcing the view that extended working hours are more detrimental than beneficial.
+
 **Recommendations for Organizations:**
 Reevaluate Overtime Policies: Limit mandatory overtime and encourage work-life balance by implementing flexible work schedules.
 Enhance Stress Management Programs: Offer wellness initiatives such as counseling services, fitness programs, or stress management workshops to support employee well-being.
@@ -92,6 +93,7 @@ Promote Clear Career Advancement Opportunities: Ensure employees understand how 
 The data also supports the hypothesis that work stress and dissatisfaction significantly influence turnover intentions. A majority of respondents indicated that dissatisfaction with their current work environment could motivate them to leave their company. This finding underscores the critical role of job satisfaction and well-being in retaining employees.
 However, when respondents were asked if they would leave their company without another job opportunity available, the results were markedly different. Most participants expressed reluctance to take such a step, citing practical constraints such as job security and financial obligations. This highlights a disconnect between turnover intentions and actual turnover behavior, which is often moderated by external factors.
 High levels of stress and fatigue, driven by extended working hours, further exacerbate dissatisfaction and increase turnover intentions. Employees who frequently experience stress due to overtime reported the lowest levels of job satisfaction, reinforcing the idea that dissatisfaction and stress are significant predictors of turnover intentions.
+
 **Recommendations for Organizations:**
 Foster a Positive Work Environment: Address root causes of dissatisfaction such as poor management, lack of recognition, or insufficient growth opportunities.
 Improve Communication Channels: Provide employees with platforms to voice their concerns and ensure management acts on feedback.
