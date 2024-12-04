@@ -54,18 +54,24 @@ We tested two hypotheses in this study. The first looked at whether extended wor
 
 #### Descriptive Statistics on Job Satisfaction
 We began by analyzing job satisfaction levels among respondents. The data revealed that the majority of respondents reported low to moderate job satisfaction:
-**chart**
+
+
+
 A significant percentage of respondents rated their job satisfaction at level 3 (neutral) or below, indicating dissatisfaction or indifference towards their work.
 Only a small fraction of respondents reported higher satisfaction levels, suggesting systemic dissatisfaction in the workplace.
 To visualize this, we included a bar chart showing the distribution of job satisfaction levels across the respondent pool. This chart clearly illustrates the predominance of dissatisfaction among employees.
 #### Job Satisfaction and Overtime Frequency
 We examined the relationship between job satisfaction and overtime frequency to explore the impact of extended working hours. Our calculations revealed a negative correlation between these two variables:
-**chart**
+
+
+
 Observation: As the frequency of overtime increases, job satisfaction decreases.
 Implication: Employees who worked overtime more often tended to report lower job satisfaction levels. This suggests that extended working hours adversely affect employees' perception of their jobs.
 #### Stress and Fatigue
 To identify potential reasons for low job satisfaction, we analyzed the correlation between overtime frequency and stress or fatigue levels. The results showed:
-**chart**
+
+
+
 High Stress Levels Among Frequent Overtime Workers: Respondents who worked overtime frequently reported significantly higher levels of stress and fatigue.
 Negative Correlation with Job Satisfaction: Those experiencing higher stress due to overtime were also more likely to report lower job satisfaction levels.
 
@@ -73,7 +79,23 @@ Negative Correlation with Job Satisfaction: Those experiencing higher stress due
 When respondents were asked if they would consider leaving their company if they were dissatisfied with their work, the majority provided a positive response. This indicates that dissatisfaction with their current work environment strongly influences employees' intentions to seek employment elsewhere. However, when the question was reframed to assess whether employees would actually leave their company due to dissatisfaction without having another job opportunity available, the responses were notably different. The majority of participants provided a negative response, suggesting that despite dissatisfaction, practical considerations such as job security and financial stability often outweigh the desire to leave. This highlights a common dilemma for employees: the tension between job dissatisfaction and the necessity to maintain a steady income.
 
 ## Discussion
-... 
+By analyzing survey responses and conducting statistical analyses, the results provide clear insights into the perceptions of employees regarding long working hours and their impact on job satisfaction and turnover intentions.
+
+H1: Most employees see longer work hours as adverse rather than beneficial
+The findings strongly support the hypothesis that most employees perceive longer work hours as adverse. The majority of respondents reported high levels of stress and fatigue due to extended working hours. This trend was particularly evident among those who frequently worked overtime, with a clear correlation between increased overtime frequency and higher stress levels.
+Additionally, when asked about the impact of extended working hours, a significant proportion of respondents indicated negative effects on their personal and family life. This aligns with prior research emphasizing that long working hours can disrupt work-life balance, leading to dissatisfaction and burnout.
+Interestingly, even though financial incentives were offered for overtime, they were only moderately influential in motivating employees to work extra hours. Respondents who worked overtime regularly did not perceive substantial career advancement benefits from their efforts, further reinforcing the view that extended working hours are more detrimental than beneficial.
+Recommendations for Organizations:
+Reevaluate Overtime Policies: Limit mandatory overtime and encourage work-life balance by implementing flexible work schedules.
+Enhance Stress Management Programs: Offer wellness initiatives such as counseling services, fitness programs, or stress management workshops to support employee well-being.
+Recognize and Reward Productivity: Shift focus from time spent at work to outcomes and efficiency. Recognize employees for achieving results within standard working hours.
+Promote Clear Career Advancement Opportunities: Ensure employees understand how their efforts, including overtime, contribute to their career growth.
+
+H2: Due to work stress and dissatisfaction, employees would consider leaving the job
+The data also supports the hypothesis that work stress and dissatisfaction significantly influence turnover intentions. A majority of respondents indicated that dissatisfaction with their current work environment could motivate them to leave their company. This finding underscores the critical role of job satisfaction and well-being in retaining employees.
+However, when respondents were asked if they would leave their company without another job opportunity available, the results were markedly different. Most participants expressed reluctance to take such a step, citing practical constraints such as job security and financial obligations. This highlights a disconnect between turnover intentions and actual turnover behavior, which is often moderated by external factors.
+High levels of stress and fatigue, driven by extended working hours, further exacerbate dissatisfaction and increase turnover intentions. Employees who frequently experience stress due to overtime reported the lowest levels of job satisfaction, reinforcing the idea that dissatisfaction and stress are significant predictors of turnover intentions.
+
 
 ## Conclusion
 
