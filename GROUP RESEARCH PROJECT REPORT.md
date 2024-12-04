@@ -33,7 +33,7 @@ The collected data were analyzed using statistical techniques such as correlatio
 
 ### Hypothesis Testing
 We tested two hypotheses in this study. The first looked at whether extended work hours lead to negative employee perceptions (H1) or have no impact. (H2) The second examined if job stress affects an employee’s willingness to leave their job. Using statistical analysis, we uncovered key patterns and relationships, offering a solid basis for our conclusions.
-![any title for your image] (C:\Users\Mehrshad\Desktop\skib353_24a-group-research-project-report-skib353-template-2\group-research-project-report-smde\group-research-project-report-smde\Screenshot 2024-11-21 140405.png)
+<img> (C:\Users\Mehrshad\Desktop\skib353_24a-group-research-project-report-skib353-template-2\group-research-project-report-smde\group-research-project-report-smde\Screenshot 2024-11-21 140405.png)
 
 ## Results
 
