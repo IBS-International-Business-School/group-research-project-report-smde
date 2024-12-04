@@ -115,3 +115,8 @@ We also valued Agile's focus on continuous improvement. To enhance our discussio
 Despite our efforts, some challenges arose, particularly in coordinating schedules for both online meetings and weekend gatherings due to differing personal commitments. However, through clear communication and flexibility, we managed to overcome these obstacles. In the end, applying Agile principles helped us enhance teamwork, manage our time effectively, and ensure the success of the project. This experience taught us valuable lessons in collaboration, problem-solving, and adaptability, which we can apply to future projects.
 
 ## References
+
+1. Miralay, Emral, Salimnezhad, Mehrshad and Rawat, Shaurya, 2024. *Survey data on the effects of long working hours on employee well-being*. Unpublished data.
+2. Dettmers, J., 2016. The effects of long working hours on health. *PubMed*. Available at: <https://pubmed.ncbi.nlm.nih.gov/26236956/>.
+3. Åkerstedt, T., 2002. Shift work and disturbed sleep/wakefulness. *Sleep Medicine Reviews*, 6(2), pp. 119-128. Available at: <https://www.sciencedirect.com/science/article/abs/pii/S0022399902004476>.
+3. Ford, E.S., Chen, H. and Winkleby, M.A., 2011. Long work hours and health risks: A review of the evidence. *Journal of Occupational Health Psychology*, 16(2), pp. 127-144. Available at: <https://www.tandfonline.com/doi/abs/10.1080/02678373.2011.609035>.
