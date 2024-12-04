@@ -11,13 +11,11 @@ We hereby declare that the following essay is the result of a collaborative effo
 We confirm that this essay is an original work, and any references to external sources have been properly cited and acknowledged.
 
 ## Introduction
-
 Work has always been a fundamental part of human development, evolving alongside societal, economic, and technological advancements. Historically, the length and nature of work were dictated by survival needs and cultural practices, with little regulation or structure. The Industrial Revolution marked a significant turning point by introducing standardized work hours, eventually leading to the widely adopted 8-hour workday. However, despite these regulations, modern economies have increasingly embraced extended working hours. The drive for longer workdays is fueled by globalization, technological progress, and the constant pursuit of higher productivity in a highly competitive market.
 
 While extended working hours may present certain challenges, they also offer several positive outcomes for both employees and organizations.
 
 #### POSITIVE EFFECT OF LONGER WORKING HOURS
-
 One of the most apparent benefits of working longer hours is the potential for increased earnings. Overtime pay provides employees with an opportunity to enhance their financial well-being, offering greater financial security and improved quality of life. This additional income can help employees meet personal financial goals, such as saving for future expenses, paying off debts, or improving their standard of living (Dettmers, 2016).
 
 Beyond financial incentives, extended working hours can contribute to career growth and professional development. Employees who consistently invest extra time in their work often stand out for their commitment, reliability, and dedication. This demonstration of a strong work ethic can lead to increased recognition from supervisors, greater responsibilities, and opportunities for promotions and salary advancements. Moreover, working additional hours allows employees to gain hands-on experience with complex tasks, expand their skill set, and develop expertise in their roles, making them more competitive in their field (Dettmers, 2016).
@@ -26,7 +24,6 @@ For organizations, extended working hours can lead to significant operational ad
 Finally, working longer hours can foster a sense of accomplishment and personal fulfillment. Employees who successfully complete challenging tasks or contribute to important projects often experience greater job satisfaction and a stronger connection to their organization’s mission and goals (Dettmers, 2016).
 
 #### NEGATIVE EFFECT OF LONGER WORKING HOURS
-
 Extended working hours can harm employees' physical and mental health, disrupt their work-life balance, and raise safety concerns, ultimately reducing job satisfaction. Research highlights how reduced sleep and heightened stress from longer hours hinder work performance and personal life enjoyment, diminishing overall satisfaction. Working over 48 hours a week, as Åkerstedt notes, is linked to significant declines in productivity and contentment(Åkerstedt. 2002).
 
 Initially, some employees may see extended hours as beneficial for career growth or higher earnings. However, studies reveal that the long-term effects, including stress and work-family conflicts, outweigh these benefits, leading to higher turnover intentions. Flexible working hours may offer a temporary boost for employees valuing autonomy, but the negative impact tends to persist.
@@ -104,7 +101,6 @@ High levels of stress and fatigue, driven by extended working hours, further exa
 
 
 ## Conclusion
-
 This study sheds light on the impact of extended working hours on employees' well-being, job satisfaction, and turnover intentions. The findings reveal that excessive work demands, increased stress, and a lack of work-life balance significantly reduce productivity and employee commitment over time. While flexible working arrangements can provide short-term benefits for those valuing autonomy, the long-term effects often lead to work-family conflicts and health issues.
 
 For businesses, these insights highlight the importance of creating a sustainable work culture. Offering balanced workloads and flexible, quality-focused schedules tailored to employee needs can improve job satisfaction and retention while boosting productivity. Encouraging healthier work practices benefits not just employees but the organization as a whole.
@@ -112,7 +108,6 @@ For businesses, these insights highlight the importance of creating a sustainabl
 From a research perspective, this study emphasizes the value of exploring how extended work hours affect people in different demographic and cultural settings. Long-term studies can provide a clearer picture of how work patterns evolve over time. Additionally, examining industry-specific impacts and comparing on-site, remote, and hybrid work models can help identify strategies for fostering employee well-being and efficiency.
 
 ## Reflection
-
 During this project, our team embraced Agile principles to foster effective collaboration and ensure flexibility. We emphasized regular communication and adaptability throughout the process. To stay aligned, we used Microsoft Teams for virtual meetings, where we could discuss updates, challenges, and assign tasks. Additionally, we created a WhatsApp group chat for quick, informal communication, allowing us to share progress and resolve issues promptly. Google Docs played a vital role in our work by enabling real-time collaboration on documents, ensuring that everyone had access to the most up-to-date information before pushing commits to our GitHub repository.
 
 We also valued Agile's focus on continuous improvement. To enhance our discussions, we met in cafes on weekends, where we could brainstorm and resolve complex issues in a relaxed, face-to-face environment. These meetups were particularly helpful in fostering creative problem-solving and building team rapport.
