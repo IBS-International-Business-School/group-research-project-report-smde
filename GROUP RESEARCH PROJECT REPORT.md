@@ -1,5 +1,4 @@
-# Group Research Project Report 
-# **THE EFFECT OF LONGER WORKING HOURS**
+# Group Research Project Report - **THE EFFECT OF LONGER WORKING HOURS**
 
 ## **Team Members:**
 1. EMRAL MIRALAY
