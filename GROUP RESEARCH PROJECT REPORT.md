@@ -84,10 +84,10 @@ Additionally, when asked about the impact of extended working hours, a significa
 Interestingly, even though financial incentives were offered for overtime, they were only moderately influential in motivating employees to work extra hours. Respondents who worked overtime regularly did not perceive substantial career advancement benefits from their efforts, further reinforcing the view that extended working hours are more detrimental than beneficial.
 
 **Recommendations for Organizations:**
-Reevaluate Overtime Policies: Limit mandatory overtime and encourage work-life balance by implementing flexible work schedules.
-Enhance Stress Management Programs: Offer wellness initiatives such as counseling services, fitness programs, or stress management workshops to support employee well-being.
-Recognize and Reward Productivity: Shift focus from time spent at work to outcomes and efficiency. Recognize employees for achieving results within standard working hours.
-Promote Clear Career Advancement Opportunities: Ensure employees understand how their efforts, including overtime, contribute to their career growth.
+- Reevaluate Overtime Policies: Limit mandatory overtime and encourage work-life balance by implementing flexible work schedules.
+- Enhance Stress Management Programs: Offer wellness initiatives such as counseling services, fitness programs, or stress management workshops to support employee well-being.
+- Recognize and Reward Productivity: Shift focus from time spent at work to outcomes and efficiency. Recognize employees for achieving results within standard working hours.
+- Promote Clear Career Advancement Opportunities: Ensure employees understand how their efforts, including overtime, contribute to their career growth.
 
 **H2: Due to work stress and dissatisfaction, employees would consider leaving the job**
 The data also supports the hypothesis that work stress and dissatisfaction significantly influence turnover intentions. A majority of respondents indicated that dissatisfaction with their current work environment could motivate them to leave their company. This finding underscores the critical role of job satisfaction and well-being in retaining employees.
@@ -95,10 +95,10 @@ However, when respondents were asked if they would leave their company without a
 High levels of stress and fatigue, driven by extended working hours, further exacerbate dissatisfaction and increase turnover intentions. Employees who frequently experience stress due to overtime reported the lowest levels of job satisfaction, reinforcing the idea that dissatisfaction and stress are significant predictors of turnover intentions.
 
 **Recommendations for Organizations:**
-Foster a Positive Work Environment: Address root causes of dissatisfaction such as poor management, lack of recognition, or insufficient growth opportunities.
-Improve Communication Channels: Provide employees with platforms to voice their concerns and ensure management acts on feedback.
-Introduce Career Development Programs: Create clear pathways for internal mobility, skill development, and leadership training to retain talent.
-Offer Competitive Compensation and Benefits: Provide benefits that align with employees’ needs, such as health insurance, retirement plans, and performance-based bonuses.
+- Foster a Positive Work Environment: Address root causes of dissatisfaction such as poor management, lack of recognition, or insufficient growth opportunities.
+- Improve Communication Channels: Provide employees with platforms to voice their concerns and ensure management acts on feedback.
+- Introduce Career Development Programs: Create clear pathways for internal mobility, skill development, and leadership training to retain talent.
+- Offer Competitive Compensation and Benefits: Provide benefits that align with employees’ needs, such as health insurance, retirement plans, and performance-based bonuses.
 
 
 ## Conclusion
