@@ -52,6 +52,25 @@ We tested two hypotheses in this study. The first looked at whether extended wor
 
 ## Results
 
+#### Descriptive Statistics on Job Satisfaction
+We began by analyzing job satisfaction levels among respondents. The data revealed that the majority of respondents reported low to moderate job satisfaction:
+**chart**
+A significant percentage of respondents rated their job satisfaction at level 3 (neutral) or below, indicating dissatisfaction or indifference towards their work.
+Only a small fraction of respondents reported higher satisfaction levels, suggesting systemic dissatisfaction in the workplace.
+To visualize this, we included a bar chart showing the distribution of job satisfaction levels across the respondent pool. This chart clearly illustrates the predominance of dissatisfaction among employees.
+#### Job Satisfaction and Overtime Frequency
+We examined the relationship between job satisfaction and overtime frequency to explore the impact of extended working hours. Our calculations revealed a negative correlation between these two variables:
+**chart**
+Observation: As the frequency of overtime increases, job satisfaction decreases.
+Implication: Employees who worked overtime more often tended to report lower job satisfaction levels. This suggests that extended working hours adversely affect employees' perception of their jobs.
+#### Stress and Fatigue
+To identify potential reasons for low job satisfaction, we analyzed the correlation between overtime frequency and stress or fatigue levels. The results showed:
+**chart**
+High Stress Levels Among Frequent Overtime Workers: Respondents who worked overtime frequently reported significantly higher levels of stress and fatigue.
+Negative Correlation with Job Satisfaction: Those experiencing higher stress due to overtime were also more likely to report lower job satisfaction levels.
+
+#### Turnover
+When respondents were asked if they would consider leaving their company if they were dissatisfied with their work, the majority provided a positive response. This indicates that dissatisfaction with their current work environment strongly influences employees' intentions to seek employment elsewhere. However, when the question was reframed to assess whether employees would actually leave their company due to dissatisfaction without having another job opportunity available, the responses were notably different. The majority of participants provided a negative response, suggesting that despite dissatisfaction, practical considerations such as job security and financial stability often outweigh the desire to leave. This highlights a common dilemma for employees: the tension between job dissatisfaction and the necessity to maintain a steady income.
 
 ## Discussion
 ... 
