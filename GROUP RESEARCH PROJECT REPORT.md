@@ -9,7 +9,16 @@
 ... 
 
 ## Introduction
-and this is test for commit
+
+
+#### NEGATIVE EFFECT OF LONGER WORKING HOURS
+
+Extended working hours can harm employees' physical and mental health, disrupt their work-life balance, and raise safety concerns, ultimately reducing job satisfaction. Research highlights how reduced sleep and heightened stress from longer hours hinder work performance and personal life enjoyment, diminishing overall satisfaction. Working over 48 hours a week, as Åkerstedt notes, is linked to significant declines in productivity and contentment(Åkerstedt. 2002).
+
+Initially, some employees may see extended hours as beneficial for career growth or higher earnings. However, studies reveal that the long-term effects, including stress and work-family conflicts, outweigh these benefits, leading to higher turnover intentions. Flexible working hours may offer a temporary boost for employees valuing autonomy, but the negative impact tends to persist.
+
+Models like Karasek’s Job Demand-Control framework explain how high demands with little control exacerbate job strain and dissatisfaction, fueling thoughts of quitting. Organizational support and job autonomy can mitigate these impacts, but prolonged overtime often results in decreased life satisfaction and commitment, as shown by (Ford et al. 2011).
+
 
 ## Methodology
 
